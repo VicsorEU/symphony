@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="kyivst16.ftp.tools" id="bcac47a2-0764-4410-b1dc-adc9d2553a2e" port="22" nameFormat="DESCRIPTIVE" username="kyivst16" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

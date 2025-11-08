@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="029143cf-0ff0-4545-95b4-ea06c080c852" name="vicsor">
+        <fileTransfer rootFolder="/home/kyivst16/vicsor.club/symphony" accessType="SFTP" host="kyivst16.ftp.tools" port="22" sshConfigId="bcac47a2-0764-4410-b1dc-adc9d2553a2e" sshConfig="kyivst16@kyivst16.ftp.tools:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
